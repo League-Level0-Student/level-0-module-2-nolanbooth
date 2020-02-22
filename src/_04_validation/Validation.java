@@ -6,7 +6,7 @@ package _04_validation;
 import java.util.Random;
 
 import javax.swing.JOptionPane;
-s
+
 public class Validation {
 	public static void main(String[] args) {
 

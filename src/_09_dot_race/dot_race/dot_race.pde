@@ -1,12 +1,14 @@
 //1. Make a variable to hold the X co-ordinate of the dot and set it to 50.
-
+int xCo = 50;
 void setup() {
     size(800, 200);
 }
 
 void draw() {
-    //3. make the ellipse a nice color
-
+    
+  //3. make the ellipse a nice color
+ fill(60, 50, 40);
+  ellipse(50, 50, 50, 50);
     //4. If the mouse is pressed change the X co-ordinate so that the dot moves to the right
 
     //5. Make your dot move faster
